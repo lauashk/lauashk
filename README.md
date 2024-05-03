@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, my name is Ashley Lau </h1>
 <h3 align="center">An analytical individual with a love for solving problems using data and tools</h3>
 
-<img align="right" alt="Coding" width="400" src="[[https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700](https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRzM2Z5NmVqZjIzeGIyb2EzaGVubG1vNnl2bDVzZG1seWRwN3hxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRzM2Z5NmVqZjIzeGIyb2EzaGVubG1vNnl2bDVzZG1seWRwN3hxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 - 🔭 I’m currently working on [Analysis of ARKK ETF](https://colab.research.google.com/drive/1uD_9ldws0HhBn3tHgO1JLKtxqBg1Zk9o)
 
